@@ -1,1 +1,1 @@
-This is a dummy file... just to see how ti replicates.
+This is a dummy file... just to see how it replicates.
